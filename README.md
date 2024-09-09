@@ -1,0 +1,1 @@
+Data was recieved from the Dean of the graduate school.  Our task was to create a timeline from the data that could be used to track a particular student/demographic throughout their academic career.  Additionally, assigning outcomes to students based off whether they graduated, dropped out, or are continuing to a future semester. 
