@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_enrollments_clean",
+  "source_file": "FinalTimelineSAS.sas",
+  "source_blob_sha": "e4f09bf2015163781bd25e71921b5ea0c996e6a1",
+  "source_commit": "9c2fdcce404e2319b771e0d64fe8259873579ac0",
+  "notes": "Section I Part A verbatim: the gradsch.enrollments cleaning DATA step (binary recodes via if/then, race condensing, first()/lowcase()/missing(), rename of name-literal columns). Mock gradsch.enrollments supplied in autoexec with matching column shapes; PROC PRINT/FREQ added to observe the cleaned output."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_running_term_count",
+  "source_file": "FinalTimelineSAS.sas",
+  "source_blob_sha": "e4f09bf2015163781bd25e71921b5ea0c996e6a1",
+  "source_commit": "9c2fdcce404e2319b771e0d64fe8259873579ac0",
+  "notes": "Section VIII Part B verbatim: DATA step building a running per-student term counter with a sum statement (term_count + first.term) reset via if first.studentID, using BY studentID term grouping. Mock timeline7 supplied (already sorted, with a date column to match the upstream pipeline); PROC PRINT added to observe term_count."
+}

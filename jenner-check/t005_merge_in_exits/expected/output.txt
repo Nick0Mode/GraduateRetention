@@ -1,0 +1,7 @@
+
+  Obs  studentID   event
+-----  ---------  ------
+    1       1002  Exited
+    2       1004  Exited
+    3       1005  Exited
+

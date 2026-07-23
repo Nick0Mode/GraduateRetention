@@ -1,0 +1,31 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA SortEnroll
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote SortEnroll (5 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA graduations
+
+NOTE: Processing inline DATALINES (2 lines)
+
+NOTE: Read 2 rows from DATALINES.
+NOTE: Wrote graduations (2 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA exits
+
+NOTE: Stream 1 processed 5 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 2 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote exits (3 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=exits
+
+NOTE: PROC PRINT completed: 3 observations printed, 2 variables

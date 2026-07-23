@@ -1,0 +1,31 @@
+NOTE: Option OBS changed to 100.
+NOTE: Option VALIDVARNAME changed to ANY.
+NOTE: Library GRADSCH uses 1 concatenated paths.
+NOTE: DATA gradsch.enrollments
+
+NOTE: Processing inline DATALINES (7 lines)
+
+NOTE: Read 7 rows from DATALINES.
+NOTE: Wrote gradsch.enrollments (7 rows, 20 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA enrollments
+
+
+NOTE: Read 7 rows from gradsch.enrollments.
+NOTE: Wrote enrollments (7 rows, 12 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=enrollments
+
+NOTE: PROC PRINT completed: 7 observations printed, 12 variables
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_race.spec.json
+NOTE: ODS plot written: freq_oap.spec.json
+NOTE: ODS plot written: freq_nc_resident.spec.json
+NOTE: ODS plot written: freq_distance_education.spec.json
+NOTE: ODS plot written: freq_male.spec.json
+NOTE: ODS plot written: freq_military.spec.json
+NOTE: PROC FREQ statement used.

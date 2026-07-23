@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-23T15:17:32Z",
+  "_captured_run_id": "r_a047e95418dc43a3b79a98bd70a36b5d",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote gradsch.enrollments (7 rows, 20 columns).",
+    "NOTE: Read 7 rows from gradsch.enrollments.",
+    "NOTE: Wrote enrollments (7 rows, 12 columns).",
+    "NOTE: PROC PRINT completed: 7 observations printed, 12 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
