@@ -1,0 +1,12 @@
+
+  Obs  studentID    term       event  term_count
+-----  ---------  ------  ----------  ----------
+    1       1001  202010  Applied              1
+    2       1001  202020  Continuing           2
+    3       1001  202110  Graduated            3
+    4       1002  202110  Applied              1
+    5       1002  202120  Continuing           2
+    6       1003  202210  Applied              1
+    7       1003  202210  Admitted             1
+    8       1003  202220  Exited               2
+

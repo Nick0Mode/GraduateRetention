@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-23T15:26:46Z",
+  "_captured_run_id": "r_5934de1f99e24a65beeb6e965611be30",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote timeline8 (8 rows, 9 columns).",
+    "NOTE: PROC PRINT completed: 8 observations printed, 4 variables",
+    "NOTE: Read 8 rows from timeline7."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

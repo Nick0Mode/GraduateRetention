@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_sql_coalesce_flag",
+  "source_file": "FinalTimelineSAS.sas",
+  "source_blob_sha": "e4f09bf2015163781bd25e71921b5ea0c996e6a1",
+  "source_commit": "9c2fdcce404e2319b771e0d64fe8259873579ac0",
+  "notes": "Section IX Part A verbatim: PROC SQL creating flag_data via a left self-join of timeline8 to a distinct-non-missing-flag subquery, using coalesce to propagate each student's flag across all rows. Mock timeline8 (studentID, flag) supplied; PROC PRINT added to observe."
+}

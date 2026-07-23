@@ -1,0 +1,17 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA timeline8
+
+NOTE: Processing inline DATALINES (9 lines)
+
+NOTE: Read 9 rows from DATALINES.
+NOTE: Wrote timeline8 (9 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table flag_data created.
+NOTE: PROC SQL statement used.
+NOTE: PROC PRINT data=flag_data
+
+NOTE: PROC PRINT completed: 9 observations printed, 3 variables
